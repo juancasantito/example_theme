@@ -1,0 +1,9 @@
+name: example_theme
+type: theme
+description: My Awesome Module
+package: Other
+core: 8.x
+libraries:
+  - example_theme/global-styling
+
+base theme: bartik
